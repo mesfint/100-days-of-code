@@ -7,10 +7,10 @@
 Project1. My Personal Portfolio page(FCC project).
 
 Project2.  Intermediate Front End Development Projects
-           2.1 Build a Random Quote Machine
-           2.2 Show the Local Weather Incomplete 
-           2.3 Build a Wikipedia Viewer Incomplete 
-           2.4 Use the Twitch.tv JSON API Incomplete 
+          * 2.1 Build a Random Quote Machine
+          * 2.2 Show the Local Weather Incomplete 
+          * 2.3 Build a Wikipedia Viewer Incomplete 
+          * 2.4 Use the Twitch.tv JSON API Incomplete 
 
 ## Resources to be  used to accomplish the Projects
       * [freecodecamp.com](freecodecamp.com)
@@ -21,8 +21,8 @@ Project2.  Intermediate Front End Development Projects
       * etc...
 
  ### Day 0: December 29, 2017
-**Clone 100DaysOfCode Github Repo**
-**Publicly post to #100DaysOfCode on Twitter**
+* Clone 100DaysOfCode Github Repo
+* Publicly post to #100DaysOfCode on Twitter
 
 ### **Today's Progress**: Planning, Setting up project.
 
