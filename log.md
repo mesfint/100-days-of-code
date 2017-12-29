@@ -7,10 +7,11 @@
 **Project1. My Personal Portfolio page(FCC project).**
 
 **Project2.  Intermediate Front End Development Projects**
-          * Build a Random Quote Machine
-          * Show the Local Weather Incomplete 
-          * Build a Wikipedia Viewer Incomplete 
-          * Use the Twitch.tv JSON API Incomplete 
+
+* Build a Random Quote Machine
+* Show the Local Weather Incomplete 
+* Build a Wikipedia Viewer Incomplete 
+* Use the Twitch.tv JSON API Incomplete 
 
 ## Resources to be  used to accomplish the Projects
       * [freecodecamp.com](freecodecamp.com)
