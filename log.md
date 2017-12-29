@@ -12,9 +12,9 @@ Project2.  Intermediate Front End Development Projects
            2.3 Build a Wikipedia Viewer Incomplete 
            2.4 Use the Twitch.tv JSON API Incomplete 
 
-##  <Resources to be  used to accomplish the Projects>
+## Resources to be  used to accomplish the Projects
       * [freecodecamp](freecodecamp.com)
-      * [ udemy ] (www.udemy.com)
+      * [udemy] (www.udemy.com)
       * [wesbos] (http://wesbos.com/)
       * [You-Dont-Know-JS] (https://github.com/getify/You-Dont-Know-JS)
       * [javascript Info] (http://javascript.info/)
