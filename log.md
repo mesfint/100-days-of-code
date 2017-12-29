@@ -1,6 +1,6 @@
-#100 Days Of Code -Mesfin Tegegne Log
+# * 100 Days Of Code -Mesfin Tegegne Log
 
-###Projects planned to be completed are from freecodecamp.com
+###P * Projects planned to be completed are from freecodecamp.com
 
 
 
@@ -12,7 +12,7 @@ Project2.  Intermediate Front End Development Projects
            2.3 Build a Wikipedia Viewer Incomplete 
            2.4 Use the Twitch.tv JSON API Incomplete 
 
-##<Resources to be  used to accomplish the Projects>
+## **<Resources to be  used to accomplish the Projects>
       * freecodecamp.com
       * www.udemy.com
       * http://wesbos.com/
