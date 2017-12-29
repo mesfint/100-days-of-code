@@ -4,9 +4,9 @@
 
 
 
-Project1. My Personal Portfolio page(FCC project).
+**Project1. My Personal Portfolio page(FCC project).**
 
-Project2.  **Intermediate Front End Development Projects**
+**Project2.  Intermediate Front End Development Projects**
           * Build a Random Quote Machine
           * Show the Local Weather Incomplete 
           * Build a Wikipedia Viewer Incomplete 
