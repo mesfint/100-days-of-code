@@ -13,16 +13,16 @@ Project2.  Intermediate Front End Development Projects
            2.4 Use the Twitch.tv JSON API Incomplete 
 
 ## Resources to be  used to accomplish the Projects
-      * [freecodecamp](freecodecamp.com)
-      * [udemy] (www.udemy.com)
-      * [wesbos] (http://wesbos.com/)
-      * [You-Dont-Know-JS] (https://github.com/getify/You-Dont-Know-JS)
-      * [javascript Info] (http://javascript.info/)
+      * [freecodecamp.com](freecodecamp.com)
+      * [www.udemy.com](www.udemy.com)
+      * [http://wesbos.com/](http://wesbos.com/)
+      * [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-JS)
+      * [http://javascript.info/](http://javascript.info/)
       * etc...
 
- Day 0: December 29, 2017
- => Clone 100DaysOfCode Github Repo
- => Publicly post to #100DaysOfCode on Twitter
+ ### Day 0: December 29, 2017
+**Clone 100DaysOfCode Github Repo**
+**Publicly post to #100DaysOfCode on Twitter**
 
 ### **Today's Progress**: Planning, Setting up project.
 
