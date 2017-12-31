@@ -31,6 +31,11 @@
 
 
 ![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-1.png)
+**Mockup1**
+![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-2.png)
+**Mockup2**
+![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-3.png)
+
 
 
 
