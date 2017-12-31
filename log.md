@@ -21,6 +21,17 @@
       * [http://javascript.info/](http://javascript.info/)
       * etc...
 
+
+      ### Day 1: December 30, 2017
+      *  Portfolio mockup is done
+      * Publicly post to #100DaysOfCode on Twitter
+
+      ### **Today's Progress**: Project Mockup including content Prototype - Done.
+
+      **Thoughts:** On Day1 , I have  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
+
+
+
  ### Day 0: December 29, 2017
 * Clone 100DaysOfCode Github Repo
 * Publicly post to #100DaysOfCode on Twitter
