@@ -22,8 +22,8 @@
 
 
       ### Day 1: December 30, 2017
-      *  Portfolio mockup is done
-      * Publicly post to #100DaysOfCode on Twitter
+       Portfolio mockup is done
+       Publicly post to #100DaysOfCode on Twitter
 
       ### **Today's Progress**: Project Mockup including content Prototype - Done.
 
