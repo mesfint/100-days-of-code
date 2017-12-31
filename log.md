@@ -11,7 +11,6 @@
 * Show the Local Weather Incomplete 
 * Build a Wikipedia Viewer Incomplete 
 * Use the Twitch.tv JSON API Incomplete 
-
 ## Resources to be  used to accomplish the Projects
    * [www.freecodecamp.org](www.freecodecamp.org)
    * [www.udemy.com](www.udemy.com)
@@ -20,24 +19,33 @@
     * [http://javascript.info/](http://javascript.info/)
     * etc...
 
-
-   ### Day 1: December 30, 2017
+ ### Day 1: December 30, 2017
   * Portfolio mockup is done
   * Publicly post to #100DaysOfCode on Twitter
 
-      **Today's Progress**: Project Mockup including content Prototype - Done.
+### Today's Progress
+##### UI Design and Prototyping
 
-      **Thoughts:** On Day1 , I have  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
+1. Introduction
+This portfolio site plan would be my personal portfolio, which displays various projects including school and personal projects. The site would have three navigation categories, home, Project and contact pages. I plan to design based on a single page application principle and as simple as possible.(take a look the layouts below ).
+
+2.	**Navigation Structure:**
+There are 3 navigation links inside the navigation bar, each navigation will have specific content.
+
+-	**HOME:**
+ page is the primary page contains basic information about my profession.
+-	**PROJECTS:**
+   All projects are displayed in this sub page, specific description about each project and technology used to build the project will be presented.
+
+-	**CONTACT:**
+My personal email and social medias are the ways to contact me
 
 
-![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-1.png)
-**Mockup1**
-![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-2.png)
-**Mockup2**
-![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-3.png)
 
-**Link to work:** No link at this point.
+![mock up](mockup1.1.pdf)
 
+
+**Thoughts:** Today I  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
 
  ### Day 0: December 29, 2017
 * Clone 100DaysOfCode Github Repo
