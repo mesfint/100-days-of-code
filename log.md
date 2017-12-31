@@ -29,7 +29,7 @@
 
       **Thoughts:** On Day1 , I have  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
 
-![MockUp -Portfolio Page](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI%20Design%20and%20Prototyping%20Report%20.pdf)
+![MockUp -Portfolio Page](/prototype/UI Design and Prototyping Report .pdf)
 
  ### Day 0: December 29, 2017
 * Clone 100DaysOfCode Github Repo
