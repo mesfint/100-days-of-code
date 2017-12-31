@@ -42,7 +42,7 @@ My personal email and social medias are the ways to contact me
 
 
 
-![mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/mockup1.1.pdf)
+![Initializing the hello-world repo](prototype/mockup1.1.pdf)
 
 
 **Thoughts:** Today I  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
