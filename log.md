@@ -1,6 +1,6 @@
 #  100 Days Of Code -Mesfin Tegegne Log
 
-### Projects planned to be completed are from freecodecamp.com
+### Projects are from freecodecamp.com
 
 
 **Project1. My Personal Portfolio page(FCC project).**
@@ -21,7 +21,7 @@
        * etc...
 
 
-      ###Day 1: December 30, 2017
+      ### Day 1: December 30, 2017
        Portfolio mockup is done
        Publicly post to #100DaysOfCode on Twitter
 
