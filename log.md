@@ -13,23 +13,26 @@
 * Use the Twitch.tv JSON API Incomplete 
 
 ## Resources to be  used to accomplish the Projects
-       * [freecodecamp.com](freecodecamp.com)
-       * [www.udemy.com](www.udemy.com)
-       * [http://wesbos.com/](http://wesbos.com/)
-       * [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-JS)
-       * [http://javascript.info/](http://javascript.info/)
-       * etc...
+   * [www.freecodecamp.org](www.freecodecamp.org)
+   * [www.udemy.com](www.udemy.com)
+   * [http://wesbos.com/](http://wesbos.com/)
+   * [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-JS)
+    * [http://javascript.info/](http://javascript.info/)
+    * etc...
 
 
-      ### Day 1: December 30, 2017
-       Portfolio mockup is done
-       Publicly post to #100DaysOfCode on Twitter
+   ### Day 1: December 30, 2017
+  * Portfolio mockup is done
+  * Publicly post to #100DaysOfCode on Twitter
 
       **Today's Progress**: Project Mockup including content Prototype - Done.
 
       **Thoughts:** On Day1 , I have  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
 
-[MockUp -Portfolio Page](100-days-of-code/prototype/UI Design and Prototyping Report .pdf)
+
+![Mockup](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI-Design-Prototyping-Report/UI-Design-Prototyping-Report-1.png)
+
+
 
  ### Day 0: December 29, 2017
 * Clone 100DaysOfCode Github Repo
@@ -40,5 +43,3 @@
 **Thoughts:** Still not sure what exactly my Portfolio will looks like, so much ideas. But I am trying to research similar Portfolio pages to get clear picture. My plan is to do more tutorials and practicing and make my portfolio as fast as I can.
 
 **Link to work:** No link at this point.
-
-
