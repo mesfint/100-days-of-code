@@ -47,6 +47,8 @@ My personal email and social medias are the ways to contact me
 
 **Thoughts:** Today I  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
 
+**Link to work:** No link at this point.
+
  ### Day 0: December 29, 2017
 * Clone 100DaysOfCode Github Repo
 * Publicly post to #100DaysOfCode on Twitter
