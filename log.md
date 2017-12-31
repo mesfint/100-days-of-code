@@ -20,6 +20,7 @@
        * [http://javascript.info/](http://javascript.info/)
        * etc...
 
+       ### Day 0: December 29, 2017
 
       ### Day 1: December 30, 2017
        Portfolio mockup is done
