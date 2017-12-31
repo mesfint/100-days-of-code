@@ -13,14 +13,13 @@
 * Use the Twitch.tv JSON API Incomplete 
 
 ## Resources to be  used to accomplish the Projects
-       * [freecodecamp.com](freecodecamp.com)
-       * [www.udemy.com](www.udemy.com)
-       * [http://wesbos.com/](http://wesbos.com/)
+       * [freecodecamp.com](freecodecamp.com)*
+       * [www.udemy.com](www.udemy.com)*
+       * [http://wesbos.com/](http://wesbos.com/)*
        * [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-JS)
-       * [http://javascript.info/](http://javascript.info/)
+       * [http://javascript.info/](http://javascript.info/)*
        * etc...
 
-       ### Day 0: December 29, 2017
 
       ### Day 1: December 30, 2017
        Portfolio mockup is done
