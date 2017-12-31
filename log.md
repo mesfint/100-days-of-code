@@ -13,23 +13,23 @@
 * Use the Twitch.tv JSON API Incomplete 
 
 ## Resources to be  used to accomplish the Projects
-       * [freecodecamp.com](freecodecamp.com)*
-       * [www.udemy.com](www.udemy.com)*
-       * [http://wesbos.com/](http://wesbos.com/)*
+       * [freecodecamp.com](freecodecamp.com)
+       * [www.udemy.com](www.udemy.com)
+       * [http://wesbos.com/](http://wesbos.com/)
        * [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-JS)
-       * [http://javascript.info/](http://javascript.info/)*
+       * [http://javascript.info/](http://javascript.info/)
        * etc...
 
 
-      ### Day 1: December 30, 2017
+      ###  Day 1: December 30, 2017
        Portfolio mockup is done
        Publicly post to #100DaysOfCode on Twitter
 
-      ### **Today's Progress**: Project Mockup including content Prototype - Done.
+      ###  **Today's Progress**: Project Mockup including content Prototype - Done.
 
       **Thoughts:** On Day1 , I have  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
 
-[embed]https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI%20Design%20and%20Prototyping%20Report%20.pdf[/embed]
+![MockUp -Portfolio Page](https://github.com/mesfint/100-days-of-code/blob/master/prototype/UI%20Design%20and%20Prototyping%20Report%20.pdf)
 
  ### Day 0: December 29, 2017
 * Clone 100DaysOfCode Github Repo
