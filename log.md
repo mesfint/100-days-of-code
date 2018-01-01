@@ -41,7 +41,7 @@ There are 3 navigation links inside the navigation bar, each navigation will hav
 My personal email and social medias are the ways to contact me
 
 
-![mock up](https://github.com/mesfint/100-days-of-code/blob/master/prototype/mockup1.1.pdf)
+![Mockup](/prototype/mockup-1.3.png)
 
 
    **Thoughts:** Today I  managed to make Portfolio Mockup. All the desired structure and contents are just plan, obviously there might be some changes during development process. The site would be as simple as possible and contents will be clear and simple as well.
