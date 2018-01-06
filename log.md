@@ -12,6 +12,8 @@
 * Css Animation implemeted in the home page
 * No UI framework used
 * Flex boxing used, its quite new for me but its fun to use .
+* Publicly post to #100DaysOfCode on Twitter
+
 
 
 **Link to work** [https://mesfint.github.io/mesfinT/](https://mesfint.github.io/mesfinT/)
