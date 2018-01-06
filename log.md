@@ -2,6 +2,22 @@
 
 
 
+### Day 7-, Jan 2 -5 2018
+#### Today I am on Day 7, Tried to accomplish some missing dates by working extra hours.
+
+### Today's Progress
+
+* Set Up my project and local server "Lite server" from npm
+* Home Page is done based on the mockup.
+* Css Animation implemeted in the home page
+* No UI framework used
+* Flex boxing used, its quite new for me but its fun to use .
+
+
+**Link to work** [https://mesfint.github.io/mesfinT/](https://mesfint.github.io/mesfinT/)
+
+
+
 ### Day 2, Dec 31 2017 and Day 3, Jan 1, 2018
 
 ### Studying Advanced-web-developer-bootcamp - Udemy by colt Steele
