@@ -2,16 +2,14 @@
 
 
 
-### Day 7-, Jan 2 -5 2018
-#### Today I am on Day 7, Tried to accomplish some missing dates by working extra hours.
+### Day 8 Jan 6 2018
+#### Project page is being designed not yet done, but so far looks good.
 
 ### Today's Progress
 
-* Set Up my project and local server "Lite server" from npm
-* Home Page is done based on the mockup.
-* Css Animation implemeted in the home page
-* No UI framework used
-* Flex boxing used, its quite new for me but its fun to use .
+* Second section "Projects" page is being developed
+* Loads of CSS styles, Thanks for Flex box my Life is pretty easier.
+* Still more work left in this section
 * Publicly post to #100DaysOfCode on Twitter
 
 
