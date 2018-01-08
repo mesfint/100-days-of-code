@@ -2,16 +2,15 @@
 
 
 
-### Day 8 Jan 6 2018
-#### Project page is being designed not yet done, but so far looks good.
+### R1D 8  - Jan 8 2018
+
 
 ### Today's Progress
 
-* Second section "Projects" page is being developed
-* Loads of CSS styles, Thanks for Flex box my Life is pretty easier.
-* Still more work left in this section
+* Projects page template is done only left real project and description update.
+* Contact page also implemented but need minor fixing
+* social media
 * Publicly post to #100DaysOfCode on Twitter
-
 
 
 **Link to work** [https://mesfint.github.io/mesfinT/](https://mesfint.github.io/mesfinT/)
