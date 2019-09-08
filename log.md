@@ -6,7 +6,7 @@
 
 
 ### R1D1 - 8/9/19
-Today I am reading [DOMenlightment](http://domenlightenment.com/) to refresh my DOM manipulation skills, sofar I like it its so detailed.
+Today I am read [DOMenlightment](http://domenlightenment.com/) to refresh my DOM manipulation skills, so far I am enjoying it, will continue reading.
 
 I also coded a simple app using HTML,CSS,JavaScript.The program counts the number of clicks of a button and updates the html page.
 
