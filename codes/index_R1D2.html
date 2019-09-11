@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+  <title>Digital JS Clock</title>
+  <style>
+    body {
+      background-color: #000;
+    }
+  #clock{
+    display: inline;
+
+  }
+  #pmam {
+  }
+  .clockBox{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+    color:#fff;
+    border: 1px #ccc solid;
+    padding: 10px;
+    font-size: 80px;
+
+
+  }
+  </style>
+  
+</head>
+<html>
+  <body>
+    <div class="clockBox">
+      <div id="clock">00:00:00</div><span id="pmam"></span>
+      <!--1568007601 awash bank 1543-->
+    </div>
+
+    <script>
+      function displayCurrentTime(){
+
+      let clock = document.getElementById('clock');
+      let pmam = document.getElementById('pmam');
+      let hour = new Date().getHours();
+      let minute = new Date().getMinutes();
+      let second = new Date().getSeconds();
+
+
+      hour < 12 ? pmam.textContent = ' AM ' : pmam.textContent = ' PM ';
+      hour < 10 ? hour ='0' + hour : hour;
+      minute < 10 ? minute ='0' + minute : minute;
+      second < 10 ? second ='0' + second : second;
+
+      let time = hour + ':' + minute + ':' + second;
+
+      clock.textContent = time;
+      setTimeout(displayCurrentTime, 1000);
+
+      }
+      displayCurrentTime();
+    
+      
+
+    </script>
+  </body>
+
+</html>
