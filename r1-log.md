@@ -1,4 +1,4 @@
-#  100 Days Of Code -Mesfin Tegegne Log
+# Starting #100DaysOfCode
 
 
 
