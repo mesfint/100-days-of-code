@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JS-Digital-clock</title>
+  </head>
+  <style>
+  body {
+    background-color: #000;
+  }
+  #header {
+  
+    justify-content: center;
+    font-size: 80px;
+    color:#fff;
+    text-align: center;
+  }
+  .clockBox {
+    position: absolute;
+    padding: 10px;
+    left:40%;
+    top:50%;
+    transform: translateX(-50%);
+    transform:translateY(-50%);
+    border:1px #ccc solid;
+  }
+  #clock{
+    color: #fff;
+    display: inline;
+    font-size: 40px;
+    
+
+  }
+  #pmORam {
+    color: #fff;
+  }
+  </style>
+  <body>
+    <h1 id="header">JS-Digital-Clock</h1>
+    <div class="clockBox">
+      <div id="clock">00:00:00</div> <sup><span id="pmORam">PM</span></sup>
+      
+    </div>
+
+    <script>
+      window.onload = ()=>{
+        document.getElementById('header').textContent = "What is the time?"
+  
+      }
+ 
+
+
+    const displayTime =() => {
+    let clock = document.getElementById('clock');
+    let pmORam = document.getElementById('pmORam');
+    let hour = new Date().getHours();
+    let minute = new Date().getMinutes();
+    let second = new Date().getSeconds();
+
+      hour < 10 ? hour = '0' + hour : hour;
+      minute < 10 ? minute = '0' + minute : minute;
+      second < 10 ? second = '0' + second : second;
+      hour >= 12 ? pmORam.textContent = 'PM' :  'AM';
+
+
+      let time = hour + ' : ' + minute + ' : ' + second ;
+
+      clock.textContent = time;
+      setTimeout( displayTime,1000);
+
+
+    }
+    displayTime();
+
+
+    </script>
+  </body>
+</html>

@@ -10,6 +10,7 @@
 
   }
   #pmam {
+    
   }
   .clockBox{
     position: absolute;
@@ -30,7 +31,6 @@
   <body>
     <div class="clockBox">
       <div id="clock">00:00:00</div><span id="pmam"></span>
-      <!--1568007601 awash bank 1543-->
     </div>
 
     <script>
@@ -43,10 +43,11 @@
       let second = new Date().getSeconds();
 
 
-      hour < 12 ? pmam.textContent = ' AM ' : pmam.textContent = ' PM ';
       hour < 10 ? hour ='0' + hour : hour;
       minute < 10 ? minute ='0' + minute : minute;
       second < 10 ? second ='0' + second : second;
+      hour < 12 ? pmam.textContent = ' AM ' : pmam.textContent = ' PM ';
+
 
       let time = hour + ':' + minute + ':' + second;
 
