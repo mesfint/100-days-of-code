@@ -18,10 +18,13 @@ also start to make a simple javascript clock, I will share the code tommorow.
 ### R1D3 - 10-11/9/19
 I make digital jsClocck, the challenge here was to figure out updating seconds every one second, then `setTimeout`come to rescue.I am planning to extend this app a little bit more useful project in the future.
 
-Link to work: [JS File](https://github.com/mesfint/100-days-of-code/blob/master/codes/index_R1D2.html)
+Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/index_R1D2.html)
 
+==================
+### R1D4 - 13/9/19
+Rewrite the Js digital clock, Learn scope of variables and `setTimeout vs setInterval`.
 
-
+Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D4_reWrite_D3.html)
 
 
 
