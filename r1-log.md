@@ -22,7 +22,7 @@ Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/
 
 ==================
 ### R1D4 - 13/9/19
-Rewrite the Js digital clock, Learn scope of variables and `setTimeout vs setInterval`.
+Rewrite the Js digital clock, Learn scope of variables and `setTimeout vs setInterval`.I also learning jquery today from Udemy, planning to make a small project using jquery. 
 
 Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D4_reWrite_D3.html)
 
