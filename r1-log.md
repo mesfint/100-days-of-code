@@ -26,6 +26,15 @@ Rewrite the Js digital clock, Learn scope of variables and `setTimeout vs setInt
 
 Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D4_reWrite_D3.html)
 
+==================
+### R1D5 - 14/9/19
+Refreshing my HTML/CSS/Js skills, Mainly I will be doing a course given by [FrondEnd Master] (https://frontendmasters.com/bootcamp/).The course is sheduled for two weeks, I am trying to finish it on time.
+
+### Thoughts:
+So far I like the style of the course, not so detailed but as referesher its enough.Based on the schedule there in the css part creating layouts (floats and FlexBox) are going to be interesting. 
+
+Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D4_reWrite_D3.html)
+
 
 
 
