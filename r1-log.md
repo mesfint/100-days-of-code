@@ -36,6 +36,16 @@ So far I like the style of the course, not so detailed but as referesher its eno
 Link to work: [ Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D5.html)
 
 
+==================
+### R1D6 - R1D7 - 15-16/9/19
+Continue working on HTML and external css from frontEndmaster bootcamp.
+I refresh Float layout and FlexBox work on simple pages to concrete the  concepts.
+### Thoughts:
+Designing simple site using HTML and external css also a blog site, The blog site is a mix of float and flexbox layout design.So far I am learing nice tricks and working habits.
+
+Link to work: [ Simple HTML page and Blog site]()
+
+
 
 
 
