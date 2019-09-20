@@ -35,7 +35,6 @@ So far I like the style of the course, not so detailed but as referesher its eno
 
 Link to work: [ Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D5.html)
 
-
 ==================
 ### R1D6 - R1D7 - 15-16/9/19
 Continue working on HTML and external css from frontEndmaster bootcamp.
@@ -46,6 +45,15 @@ Designing simple site using HTML and external css also a blog site, The blog sit
 
 Link to work: [ Simple HTML page and Blog site](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D6.html),(https://github.com/mesfint/100-days-of-code/tree/master/codes/R1Dblog-begin)
 
+==================
+### R1D8 - R1D11 - 17-20/9/19
+HTML form with external css designed, the form was able to submit values to server using a predefined server side script.
+
+### Thoughts:
+I learned few trics specially aligning input feilds,  converting lables to block element solves many layout headechs
+
+
+Link to work: [HTML form](https://github.com/mesfint/100-days-of-code/tree/master/codes/begin)
 
 
 
