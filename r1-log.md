@@ -33,7 +33,7 @@ Refreshing my HTML/CSS/Js skills, Mainly I will be doing a course given by [Fron
 ### Thoughts:
 So far I like the style of the course, not so detailed but as referesher its enough.Based on the schedule there in the css part creating layouts (floats and FlexBox) are going to be interesting. 
 
-Link to work: [JS Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D4_reWrite_D3.html)
+Link to work: [ Code](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D5.html)
 
 
 
