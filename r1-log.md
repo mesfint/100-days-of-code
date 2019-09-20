@@ -45,6 +45,14 @@ Designing simple site using HTML and external css also a blog site, The blog sit
 
 Link to work: [ Simple HTML page and Blog site](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D6.html),(https://github.com/mesfint/100-days-of-code/tree/master/codes/R1Dblog-begin)
 
+==================
+### R1D8 - R1D11 - 17-20/9/19
+Design HTML FORM and external css, Using a predefined Backend script the form can submit and display the output on the page
+### Thoughts:
+
+
+Link to work: [ Simple HTML page and Blog site](https://github.com/mesfint/100-days-of-code/blob/master/codes/R1D6.html),(https://github.com/mesfint/100-days-of-code/tree/master/codes/R1Dblog-begin)
+
 
 
 
