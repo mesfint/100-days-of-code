@@ -43,7 +43,7 @@ I refresh Float layout and FlexBox work on simple pages to concrete the  concept
 ### Thoughts:
 Designing simple site using HTML and external css also a blog site, The blog site is a mix of float and flexbox layout design.So far I am learing nice tricks and working habits.
 
-Link to work: [ Simple HTML page and Blog site]()
+Link to work: [Simple HTML page and Blog site]()
 
 
 
