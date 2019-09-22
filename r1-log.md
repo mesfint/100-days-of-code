@@ -55,6 +55,17 @@ I learned few trics specially aligning input feilds,  converting lables to block
 
 Link to work: [HTML form](https://github.com/mesfint/100-days-of-code/tree/master/codes/begin)
 
+==================
+###  R1D12 -21/9/19
+Rewrite HTML form from scratch with external css , the form is not submiting values to anywhere, for now but will implement the submition 
+in future.
+
+### Thoughts:
+I practice some designing form as well as learn some tricks specially on layout.
+
+
+Link to work: [HTML form](https://github.com/mesfint/100-days-of-code/tree/master/codes/begin)
+
 
 
 
