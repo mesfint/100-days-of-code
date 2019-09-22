@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <link href="https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap" rel="stylesheet">
+
+    <link href="style_form2.css" rel="stylesheet">
+    <title>Rewrite HTML Form</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="wrapper_header">
+      <h1 class="contact_header">Contact Mesfin</h1>
+      <h3 class="contact_header-msg">Send a general message</h3>
+    </div>
+
+      <p class="formInfo">Please fill out the form below to contact me and I will 
+        reach you out as soon as possible</p>
+        <fieldset>
+          <legend>Your Contact Information</legend>
+          <form action="">
+            <label for="name" class="name">Your name<span class="required">*</span></label>
+            <input type="text" id="name" name="name" placeholder="eg.mesfin tegegne" required>
+            <label for="phone">Your phone number<span class="required">*</span></label>
+            <input type="text" id="phone" name="Phone Number" placeholder="eg.+358123456789" required>
+            <label for="email">Your email<span class="required">*</span></label>
+            <input type="email" id="email" name="email" placeholder="eg.hello@example.com" required>
+            <label for="website">Your website</label>
+            <input type="website" id="website" name="website" placeholder="eg.example.com">
+            
+            <p>Purpose of your message</p>
+            <label>
+                <input type="radio" name="subject" value="subject" checked >Web design
+
+            </label>
+            <label>
+                <input type="radio" name="subject" value="subject">UI design
+
+            </label>
+            <label>
+                <input type="radio" name="subject" value="subject">Mobile app design
+
+            </label>
+           
+           
+           
+            <label for="message" class="msg_label">Message<span class="required">*</span></label>
+            <textarea type="text" id="message" name="message" required></textarea>
+           <label>
+              <input type="checkbox" name="checkbox" id="checkbox">Add me into mail list
+           </label>
+           <button type="submit">SEND</button>
+
+          </form>
+        </fieldset>
+
+    </div>
+
+  </body>
+
+</html>

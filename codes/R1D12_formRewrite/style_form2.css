@@ -1,0 +1,77 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Libre Franklin', sans-serif;
+
+
+}
+.wrapper {
+  max-width:720px;
+  margin: 0 auto;
+}
+.wrapper_header {
+  background-color: #2098d1;
+  color: white;
+  text-align: center;
+  height: 10rem;
+  font-weight: 900;
+  
+
+}
+.contact_header {
+  padding-top: 50px;
+}
+.contact_header-msg {
+  padding-top: -10px;
+}
+label {
+  display: block;
+  margin-bottom: .5rem;
+
+}
+::placeholder {
+  color:#cfcfcf;
+}
+:-ms-input-placeholder {
+  color:#cfcfcf;
+
+}
+::-webkit-input-placeholder{
+  color:#cfcfcf;
+
+}
+
+.formInfo {
+  border-bottom: 1px solid #cfcfcf;
+  padding:1rem 0;
+}
+
+input:not([type="radio"]):not([type="checkbox"]),textarea,select{
+  display: block;
+  margin-bottom: 2rem;
+  width:40rem;
+  font-size: 1rem;
+  padding: 0 1rem;
+  height: 2.5rem;
+
+}
+.required {
+  color:red;
+}
+#message {
+  height: 14rem;
+}
+.msg_label,.name {
+  font-weight: bold;
+  margin-top: 1.5rem;
+
+}
+button {
+  text-align: center;
+  background-color: #2098d1;
+  color: white;
+  border: none;
+  padding: 15px;
+  font-size: 1rem;
+  line-height: 1.2;
+  
+}
