@@ -64,8 +64,8 @@ in future.
 I practice some designing form as well as learn some tricks specially on layout.
 
 
-Link to work: [HTML form](https://github.com/mesfint/100-days-of-code/tree/master/codes/R1D12_formRewrite)
-Form with Gif Anim: [Form](https://gyazo.com/6c391ba9f476d81cae87c3f3a8f52dab)
+- Link to work: [HTML form](https://github.com/mesfint/100-days-of-code/tree/master/codes/R1D12_formRewrite)
+- Form with Gif Anim: [Form](https://gyazo.com/6c391ba9f476d81cae87c3f3a8f52dab)
 
 
 
