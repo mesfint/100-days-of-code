@@ -67,6 +67,16 @@ I practice some designing form as well as learn some tricks specially on layout.
 - Link to work: [HTML form](https://github.com/mesfint/100-days-of-code/tree/master/codes/R1D12_formRewrite)
 - Form with Gif Anim: [Form](https://gyazo.com/6c391ba9f476d81cae87c3f3a8f52dab)
 
+==================
+###  R1D13 -22/9/19
+Today I was working on calculator layout design using only HTML and css.The tutorial was from frontEnd master "Jen", Her methods were so understandable , I tried to sometime ago to make calculator design but never been easy, but thanks to jen, now got all the tricks.The design is also a preparation for the next javasccript section where we I will make the interaction of the calculator, the javascript course is given by Brian Holt.
+
+### Thoughts:
+I practice  designing Calculator also the steps where to start, Jen showed us always to start from the easy section, then evetually move to the complex one, which makes sense at least in this task.I apply FlexBox to make the grid, also used HTML predefined character code for function buttons of the calculator.I am planning to rewrite the calculator design soon.
+- [HTML character codes](https://www.toptal.com/designers/htmlarrows/math/)
+
+- Link to work: [HTML Calculator](https://github.com/mesfint/100-days-of-code/tree/master/codes/calculator/begin)
+
 
 
 
