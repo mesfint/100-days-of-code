@@ -77,7 +77,14 @@ I practice  designing Calculator also the steps where to start, Jen showed us al
 
 - Link to work: [HTML Calculator](https://github.com/mesfint/100-days-of-code/tree/master/codes/calculator/begin)
 
+==================
+###  R1D14 -23/9/19
+Today I was watching The JS part of FrontEnd Master by Brian Holt.Though the first couple of the setion are pretty basics but still I decide to watch to referesh my Js memory,also practice the excersises. Brian is at the moment Microsoft developer, he is super talented.The JS section is about 5(five)hrs lecture, I am planning to finnish in the coming 2(two) days.
 
+### Thoughts:
+I like so far the scope and methedology of the lecture, plus the excersices are also challenging which is greate opportunity to crystalize the concepts.
+
+- I will share the codes as I work more on the excercies.
 
 
 
