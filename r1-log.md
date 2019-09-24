@@ -91,42 +91,7 @@ I like so far the scope and methedology of the lecture, plus the excersices are 
 Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
 The following is part of the code, I am attaching here below the link for the final and complete virsion.
     
- ```     let points = 0;
-
-function australia(userAnswer) {
-  // what is the capital of australia?
-  // 100 pts
-  const isCorrect = userAnswer === 'Canberra';//serAnswer.toUpperCase() === 'CANBERRA'; this also OK
-  
-  if (isCorrect) {
-    points += 100; 
-  }
-  return isCorrect;
-}
-
-function canada(userAnswer) {
-  // what is the capital of canada?
-  
-  const isCorrect = userAnswer.toUpperCase() ==="OTTAWA"
-  if(isCorrect){
-      points += 100; 
-     }
-  return isCorrect;
-  // 100 pts
-  
-}
-
-function uppercase(userAnswer, word) {
-  // what is <word> in all capital letters?
-  const isCorrect = userAnswer === word.toUpperCase();
-  if(isCorrect){
-    points += 200;
      
-     }
-  return isCorrect;
-  // 200 pts
-  
-} ```
     
 Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
 Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the logics, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
