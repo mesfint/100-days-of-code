@@ -88,7 +88,9 @@ I like so far the scope and methedology of the lecture, plus the excersices are 
 
 ==================
 ###  R1D15 -24/9/19
-Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
+Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle whic
+
+h is worth at the end
 The following is part of the code, I am attaching here below the link for the final and complete virsion.
     
 ```
@@ -132,14 +134,21 @@ function uppercase(userAnswer, word) {
 
     
 Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
-Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the logics, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
+Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the logics, I google only for few issues, I promised to myself to try  as much as I can and do  no cheat my self. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end.
 
 ### Thoughts:
 I like the excercises they are intutive to me, At first looks scary an dno clue what to do, but as read the overall code got the idea and slowly I manage to figureout the tasks and finished all.
 
 - Link to work: [Quize Excercise](https://codepen.io/mesfint/pen/pozGaoj?editors=0010)
 
+==================
+###  R1D16-17 -25-26/9/19
+In the last 2 days I was still working on Javascript section from FrontEnd Master - Brian Holt, finished the Object and Array section. Yesterday I haven't done much due to some family comitments.I will continue to work on this bootcamp till the end.
 
+### Thoughts:
+Brian is so much knowledgable, I can't thank him enough.
+
+- I will share the codes as I work more on  excercies.
 
 
 
