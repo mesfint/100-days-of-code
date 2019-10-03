@@ -77,7 +77,78 @@ I practice  designing Calculator also the steps where to start, Jen showed us al
 
 - Link to work: [HTML Calculator](https://github.com/mesfint/100-days-of-code/tree/master/codes/calculator/begin)
 
+==================
+###  R1D14 -23/9/19
+Today I was watching The JS part of FrontEnd Master by Brian Holt.Though the first couple of the setion are pretty basics but still I decide to watch to referesh my Js memory,also practice the excersises. Brian is at the moment Microsoft developer, he is super talented.The JS section is about 5(five)hrs lecture, I am planning to finnish in the coming 2(two) days.
 
+### Thoughts:
+I like so far the scope and methedology of the lecture, plus the excersices are also challenging which is greate opportunity to crystalize the concepts.
+
+- I will share the codes as I work more on the excercies.
+
+==================
+###  R1D15 -24/9/19
+Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle whic
+
+h is worth at the end
+The following is part of the code, I am attaching here below the link for the final and complete virsion.
+    
+```
+ let points = 0;
+
+function australia(userAnswer) {
+  // what is the capital of australia?
+  // 100 pts
+  const isCorrect = userAnswer === 'Canberra';//serAnswer.toUpperCase() === 'CANBERRA'; this also OK
+  
+  if (isCorrect) {
+    points += 100; 
+  }
+  return isCorrect;
+}
+
+function canada(userAnswer) {
+  // what is the capital of canada?
+  
+  const isCorrect = userAnswer.toUpperCase() ==="OTTAWA"
+  if(isCorrect){
+      points += 100; 
+     }
+  return isCorrect;
+  // 100 pts
+  
+}
+
+function uppercase(userAnswer, word) {
+  // what is <word> in all capital letters?
+  const isCorrect = userAnswer === word.toUpperCase();
+  if(isCorrect){
+    points += 200;
+     
+     }
+  return isCorrect;
+  // 200 pts
+  
+} 
+```
+
+    
+Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the tasks, I google only for few issues, I promised to myself to try or dig as much as I can no cheating. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end
+Today Contiuned working on FrontendMasters Bootcamp course Js section.I was working on the "Quiz Excercise". The teacher has done some part of it, all functions were created inadvance, also Test scripts were written by the teacher.My task was to implement the logic under every function, I am happy that I got right most of the logics, I google only for few issues, I promised to myself to try  as much as I can and do  no cheat my self. The teacher though encourages to see the answer, but I decided to struggle which is worth at the end.
+
+### Thoughts:
+I like the excercises they are intutive to me, At first looks scary an dno clue what to do, but as read the overall code got the idea and slowly I manage to figureout the tasks and finished all.
+
+- Link to work: [Quize Excercise](https://codepen.io/mesfint/pen/pozGaoj?editors=0010)
+
+==================
+###  R1D16-17 -25-26/9/19
+In the last 2 days I was still working on Javascript section from FrontEnd Master - Brian Holt, finished the Object and Array section. Yesterday I haven't done much due to some family comitments.I will continue to work on this bootcamp till the end.
+
+### Thoughts:
+Brian is so much knowledgable, I can't thank him enough.
+
+- I will share the codes as I work more on  excercies.
 
 
 
