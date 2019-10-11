@@ -153,7 +153,16 @@ Brian is so much knowledgable, I can't thank him enough.
 ==================
 ###  R1D18-31 - Date-11/10/19
 I have been working on the [Frontend Master](https://frontendmasters.com/bootcamp), for the last 14 days, the course was mainly working on JS pojects.I will explain the projects as follows.
-1.  [Calculator] 
+1.  ![Calculator specification](https://github.com/mesfint/100-days-of-code/blob/master/codes/calculator/calculator-spec.png "the yigerem") . The calculator has basic functionality but each operation except percent has implemented.
+
+  
+
+
+
+
+
+
+
 
 
 
