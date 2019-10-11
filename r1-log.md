@@ -150,6 +150,10 @@ Brian is so much knowledgable, I can't thank him enough.
 
 - I will share the codes as I work more on  excercies.
 
+==================
+###  R1D18-31 - Date-11/10/19
+I have been working on the [Frontend Master](https://frontendmasters.com/bootcamp), for the last 14 days, the course was mainly working on JS pojects.I will explain the projects as follows.
+1.  [Calculator] 
 
 
 
