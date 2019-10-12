@@ -1,4 +1,4 @@
-# Starting 100DaysOfCode - September,8 2019
+# Starting 100DaysOfCode
 
 
 ### R1D1 - sept 8/19
