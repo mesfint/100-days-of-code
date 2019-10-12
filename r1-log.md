@@ -164,9 +164,9 @@ Creating Calculator sounds a little bit daunting at the begning, however devidin
 ## 2. Image gallary slider
  was the second project in this module. The gallary was built in two versions,i.  Only vanila Js, ii. Is using third party librarys called "swiper.js and popmotion".
  
--   2.1 [Js Image gallary](https://github.com/mesfint/100-days-of-code/tree/master/codes/imageGallery)
+2.1     [Js Image gallary](https://github.com/mesfint/100-days-of-code/tree/master/codes/imageGallery)
 
--   2.2 [Third party library version](https://github.com/mesfint/100-days-of-code/tree/master/codes/imageGallery_Library_Version)
+2.2     [Third party library version](https://github.com/mesfint/100-days-of-code/tree/master/codes/imageGallery_Library_Version)
 
 ### Thoughts: 
 This project is relatively the easiest one.The main target in the project was DOM and add event listeners to buttons to trigger the forward and backward feature.
