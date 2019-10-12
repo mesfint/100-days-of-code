@@ -152,7 +152,8 @@ Brian is so much knowledgable, I can't thank him enough.
 
 ==================
 ###  R1D18-31 - Oct 11/19
-I have been working on the [Frontend Master](https://frontendmasters.com/bootcamp), for the last 14 days, the course was mainly working on JS pojects.I will explain the projects as follows.
+I have been working on the [Frontend Master](https://frontendmasters.com/bootcamp), for the last 14 days , the section I was  mainly working on JS pojects. The projects are explained as follows.
+
 ## 1.  JS calculator
 ![Calculator specification](https://github.com/mesfint/100-days-of-code/blob/master/codes/calculator/calculator-spec.png "Calculator").
 
@@ -161,15 +162,17 @@ I have been working on the [Frontend Master](https://frontendmasters.com/bootcam
 ### Thoughts: 
 Creating Calculator sounds a little bit daunting at the begning, however deviding the functions of each button logically can make once life so easier. The buttons are devided into operators and symbols where each of them working same way. Therefore he uses only 6 functions to handle the over calculator operation.
 
-## 2. Image gallary slider
- was the second project in this module. The gallary was built in two versions,i.  Only vanila Js, ii. Is using third party librarys called "swiper.js and popmotion".
+## 2. Image gallery slider
+ The Image gallery was the second project in this module. The gallary was built in two versions,
+ i.  Only with  JS Vanilla
+ ii. Using third party librarys called [swiper.js](https://swiperjs.com/get-started/) and [popmotion/pure](https://popmotion.io/pure/).
  
 2.1     [Js Image gallary](https://github.com/mesfint/100-days-of-code/tree/master/codes/imageGallery)
 
 2.2     [Third party library version](https://github.com/mesfint/100-days-of-code/tree/master/codes/imageGallery_Library_Version)
 
 ### Thoughts: 
-This project is relatively the easiest one.The main target in the project was DOM and add event listeners to buttons to trigger the forward and backward feature.
+This project is relatively the easier one.The main goal of the project was  to use DOM and add event listeners to buttons to trigger the forward(Next) and backward(Prev) features.Handling these events are the key. Understanding weather the image is the current active also deactivating the buttons when there is no more images left to scroll.
 ## 3.  Dog viewer, 
 This is  api based project where, the app consumes a simple  api json data from [dog api ](https://dog.ceo/dog-api/), and update the UI, based on the selected dog type from dropdown list.This type of project is the common in a daily rutine in a real developer job.
 - The app is developed in away that the selected dog image is rendered everytime a user clicks one from the list.
@@ -182,14 +185,14 @@ This project a real world project, fetching data from an api and utilizing it so
 
 
 ## 4. Feed-A-Star-Mole
-This the last project in the bootcap module, which prety advanced and complex. "Brian Holt", was solving the problem one a time, though its a personal style but still makes sense.The project is somehow hard to follow alongside with the teacher but I still manage to grasp.The logic flow is somehow mind blowing also the code is pretty lengthy, but still managable.
+This the last project in the bootcap module, which is prety advanced and complex. Brian Holt, was doing the problem one feature at a time, though its a personal style but still makes sense.The project is somehow hard to follow alongside with the teacher but  still manageable to grasp.The logic flow is somehow looks complicated lengthy, but still not as hard as i tought.
 
 [Feed-A-Star-Mole code](https://github.com/mesfint/100-days-of-code/tree/master/codes/Feed-A-Star-Mole-game/begin)
 
 ### Thoughts: 
-I learn how to break a huge task that looks scary the begning into small pieces of tasks, and solve one problem at a time adding one feature at a time, also leave a sensible comments along the way.
-- visualizing the overall project and anticipate the outputs inadvance by giving sometime to the project is very crucial here.
-- Going back and forth is also a common practice such as updating/adding or deleting the previous feature into a new one.
+I learn how to break a huge task that looks scary at the begning into small pieces and solve one problem at a time also adding one feature at a time.I also  learn its good practice to leave a sensible comments along the way even the features you plan to make otherwise you will forget it.
+- Visualizing the overall project and anticipate the outputs inadvance by giving sometime to the project is very crucial one.
+- Going back and forth is also a common practice such as updating/adding or deleting some features.
 
 
   
