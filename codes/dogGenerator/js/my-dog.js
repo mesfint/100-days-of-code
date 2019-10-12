@@ -48,6 +48,10 @@ fetch(BREEDS_URL)
     // console.log(` https://dog.ceo/api/breed/${event.target.value}/images `);
 
       //make url
+      //RANDOM IMAGE FROM A BREED COLLECTION
+
+      //https://dog.ceo/api/breed/hound/images/random Fetch!
+
     let url = ` https://dog.ceo/api/breed/${event.target.value}/images/random `
      
     getDoggo(url);
