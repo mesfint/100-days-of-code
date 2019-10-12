@@ -154,7 +154,8 @@ Brian is so much knowledgable, I can't thank him enough.
 ###  R1D18-31 - Date-11/10/19
 I have been working on the [Frontend Master](https://frontendmasters.com/bootcamp), for the last 14 days, the course was mainly working on JS pojects.I will explain the projects as follows.
 ## 1.  JS calculator
-![Calculator specification](https://github.com/mesfint/100-days-of-code/blob/master/codes/calculator/calculator-spec.png "Calculator") . The calculator has basic functionality but each operation except percent has implemented.
+![Calculator specification](https://github.com/mesfint/100-days-of-code/blob/master/codes/calculator/calculator-spec.png "Calculator") .
+ The calculator has basic functionality but each operation except percent has implemented.
 
 ### Thoughts: 
 Creating Calculator sounds a little bit daunting at the begning, however deviding the functions of each button logically can make once life so easier. The buttons are devided into operators and symbols where each of them working same way. Therefore he uses only 6 functions to handle the over calculator operation.
