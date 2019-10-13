@@ -157,13 +157,7 @@ I have been working on the [Frontend Master](https://frontendmasters.com/bootcam
 ## 1.  JS calculator
 ![Calculator specification](https://github.com/mesfint/100-days-of-code/blob/master/codes/calculator/calculator-spec.png "Calculator").
 
-<<<<<<< HEAD
  The calculator has basic functionality but each operator functions are  implemented.
-=======
- The calculator has basic functionality but each operator functions are implemented.
- 
- Link to work:  [Calculator](https://github.com/mesfint/100-days-of-code/tree/master/codes/calculator/begin)
->>>>>>> ee91b3e18a7a96aacb2174e5449181dec02ed602
 
 ### Thoughts: 
 Creating Calculator sounds a little bit daunting at the begning, however deviding the functions of each button logically can make once life so easier. The buttons are devided into operators and symbols where each of them working same way. Therefore he uses only 6 functions to handle the over calculator operation.
