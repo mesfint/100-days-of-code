@@ -194,7 +194,14 @@ I learn how to break a huge task that looks scary at the begning into small piec
 - Visualizing the overall project and anticipate the outputs inadvance by giving sometime to the project is very crucial one.
 - Going back and forth is also a common practice such as updating/adding or deleting some features.
 
+==================
+###  R1D32- Oct13/19
+I started to study [frontendmasters](frontendmasters.com) web development path, and today I was working on first HTML project, its a static  news site. Its good to refresh my HTML and CSS skills. I use Flex for the layout. Soon I will go through how the teacher(Brian Holt) would solve it, but first I wanted to accomplish it as much as I can.
 
+### Thoughts: 
+Its nice always to start from the basic one and its eventually very helpfull to tackle advanced tasks.
+
+Link to work: [HTML Project1 code](https://github.com/mesfint/100-days-of-code/tree/master/codes/frontEndMaster_Web_Dev/HTML_Project1).
   
 
 
