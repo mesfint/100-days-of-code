@@ -202,6 +202,8 @@ I started to study [frontendmasters](frontendmasters.com) web development path, 
 Its nice always to start from the basic one and its eventually very helpfull to tackle advanced tasks.
 
 Link to work: [HTML Project1 code](https://github.com/mesfint/100-days-of-code/tree/master/codes/frontEndMaster_Web_Dev/HTML_Project1).
+
+ [Teacher Complete version:](https://btholt.github.io/intro-to-web-dev-v2/news.html)
   
 
 

@@ -3,14 +3,19 @@
 }
 .wrapper {
   padding: 5% ;
+}
+.main-brand {
+  font-size: 60px;
+  font-family: cursive;
   text-align: center;
+  font-weight: normal;
+  
 }
 .news-container {
   display: flex;
   border: 2px solid #333;
   padding: 2% 3%;
   flex-wrap: wrap;
-  border-top: 5px solid #333;
 
   
 }
@@ -19,12 +24,11 @@
   flex-basis: 25%;
   flex-flow:column nowrap;
   align-items: stretch;
-  border-bottom: .5px solid #333;
 
   
   
 }
-.news-container-left ,.news-container-middle, .news-container-right,.news-container-bottomLeft p {
+.news-container-left , .news-container-right,.news-container-bottomLeft p {
   font-size: 25px;
   line-height: 1.5;
   padding: 0 2.5%;
@@ -34,48 +38,71 @@
   flex-basis: 50%;
   border: 2px solid #333;
   margin-top: -26px;
+  margin-bottom: -26px;
+
+  font-size: 25px;
+  line-height: 1.5;
+
+}
+.story-title {
+  padding: 0 2.5%;
 
 }
 
-.news-container-middle {
-  max-width: 100%;
-  padding: 0 3%;
+.news-container-middle img {
+  width: 100%;
 }
 .news-container-bottomLeft {
   display: flex;
   flex-basis: 25%;
-  border-top: 1px solid #333;
   margin-left: -35px;
   border-bottom: 0;
   
 
   
 }
-.news-container-middleBootom {
+.news-container-middleBottom {
   display: flex;
   flex-basis: 75%;
   flex-direction: column;
   justify-content: left;
   text-align: left;
-  border-top: 2px solid #333;
   align-items: stretch;
   margin-left: 35px;
   border-right: 0;
   border-bottom: 0;
 }
-.news-container-middleBootom {
+.news-container-middleBottom {
   flex-direction: column;
   flex-wrap: nowrap;
+  border-left: 2px solid #333;
+  margin-top: -26px;
+  margin-bottom: -26px;
+
+
+
+
 
 }
 .politics, .tech,.local,.opinion,.sport {
   display: flex;
-  padding: 15%;
   font-size: 40px;
   flex-basis: 100%;
-
+  margin-right: -39px;
+  padding: 15% 10%;
+  flex:1;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold; 
 
 }
+.nav-item a{
+  text-decoration: none;
+  color: #555;
+}
+.nav-item a:hover {
+  text-decoration: underline;
+}
+
 .politics {
   background-color:#ffeaa7; 
 
@@ -99,5 +126,8 @@
   background-color:#a29bfe; 
  
 
+}
+.news-container {
+  border-bottom: px solid #333;
 }
 
