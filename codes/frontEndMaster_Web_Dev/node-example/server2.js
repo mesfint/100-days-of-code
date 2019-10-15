@@ -3,7 +3,7 @@ const path = require("path");
 
 const insults = [
   "Code doesn’t compile",
-  "Full of antipatterns",
+  "Full of anti patterns",
   "Cargo cult programmer",
   "Hackish",
   "Randomness",
