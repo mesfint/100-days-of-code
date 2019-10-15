@@ -208,7 +208,7 @@ Link to work: [HTML Project1 code](https://github.com/mesfint/100-days-of-code/t
   ==================
 ###  R1D33-34- Oct15/19
 
-Day33-34/100
+
  
  Today I Continued on web-development-v2 from 
 @FrontendMasters study about Parcel,Node.js, Git and bash and Popmotion library by @holtbt. The course was somehow scraching the surface, its not deep but gave me quite broad overview on these technologies, I will work on the task given by the teacher
@@ -218,9 +218,13 @@ Day33-34/100
 ### Thoughts:
 This section of the course is the last part of the first module, I am happy that manage to work on this far.Will continue and update my log.
 
+  ==================
+###  R1D35- Oct16/19
+Today I spend about an hour doing this excercise,The excercise is just to have a nodejs basic understanding, router also fetching data from files read them, then update the UI which is triggered by button event listener.Even If the task is not that difficult, but i see the complete picture of full stack development.I am continuing  studying from frontendmaster,The next part is 
+' Getting Started with JavaScript, v2 ' by Kyle Simpson:< You Don't Know JS >, Its a 2 and half hrs course.
 
-
-
+### Thoughts:
+So far the material is understandable and the teacher is knowladgable. I am happy working on this course.
 
 
 
