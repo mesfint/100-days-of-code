@@ -205,8 +205,18 @@ Link to work: [HTML Project1 code](https://github.com/mesfint/100-days-of-code/t
 
  [Teacher Complete version:](https://btholt.github.io/intro-to-web-dev-v2/news.html)
   
+  ==================
+###  R1D33-34- Oct15/19
 
+Day33-34/100
+ 
+ Today I Continued on web-development-v2 from 
+@FrontendMasters study about Parcel,Node.js, Git and bash and Popmotion library by @holtbt. The course was somehow scraching the surface, its not deep but gave me quite broad overview on these technologies, I will work on the task given by the teacher
 
+ [Extend this project](https://btholt.github.io/intro-to-web-dev-v2/node)
+
+### Thoughts:
+This section of the course is the last part of the first module, I am happy that manage to work on this far.Will continue and update my log.
 
 
 
