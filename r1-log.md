@@ -228,6 +228,12 @@ So far the material is understandable and the teacher is knowladgable. I am happ
 
 [Link to work](https://github.com/mesfint/100-days-of-code/tree/master/codes/frontEndMaster_Web_Dev/node-example)
 
+  ==================
+###  R1D36- Oct17/19
 
+Working on getting-started-javascript-v2 bye kyle from [@frontendmasters],(frontendmasters.com),This section is the first part from the teacher's 'You don't know JS' book series.I am enjoying his insightfull teaching style and knowledge.I will keep on working on the chapter.  
+
+### Thoughts:
+I manage to do the first excercise from this chapter without seeing teacher's solution.
 
 
