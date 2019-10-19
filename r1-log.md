@@ -236,4 +236,15 @@ Working on getting-started-javascript-v2 bye kyle from [@frontendmasters],(front
 ### Thoughts:
 I manage to do the first excercise from this chapter without seeing teacher's solution.
 
+  ==================
+###  R1D37-38 - Oct17/19
+Working on the excercise of getting-started-javascript-v2 section. The 3 Pillars of JS, So far fairly understandble.
+1.    Types / Coercion
+2.    Scope / Closures
+3.    this / Prototypes 
 
+Applying them into action seems scary, but managable.
+
+### Thoughts:
+
+Closure seems there all the time, but the key is recognizing it. While writing a code, recognize closure is being appeared.
