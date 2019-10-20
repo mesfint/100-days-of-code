@@ -248,3 +248,10 @@ Applying them into action seems scary, but managable.
 ### Thoughts:
 
 Closure seems there all the time, but the key is recognizing it. While writing a code, recognize closure is being appeared.
+
+  ==================
+###  R1D39 - Oct20
+Completed  ' Three Pillars of JS ' excercise from getting-started-javascript-v2.Now I need to crystalize the Pillars concept and try to do more tasks untill I get them stick in my head.
+
+### Thoughts:
+The Idea of the three Pillars is the core concept for Js programming, I felt that once I master these concepts, my work on JS will be more easier than before.
