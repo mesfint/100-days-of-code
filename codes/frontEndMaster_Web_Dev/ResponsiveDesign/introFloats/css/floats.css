@@ -1,0 +1,70 @@
+/* Border box declaration 
+https://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+html {
+  box-sizing: border-box;
+}
+/* inherit border-box on all elements in the universe and before and after
+ */
+*, 
+*:before, 
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+	font-family: Arial, Geneva, sans-serif;
+}
+a {
+	color: #2772B0;
+}
+.wrapper {
+	width: 97%;
+	max-width: 1200px;
+	margin: 0 auto;
+	float: none;
+	background-color: #fff;
+}
+
+div img {
+	width: 100%;
+	max-width: 225px; 
+}
+
+/* grid system -- mobile first! */
+.col-1 {
+  float: left;
+  margin-left: 4%;
+  width: 20%;
+}
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+
+/* Mobile Landscape Screen Sizes */
+@media only screen and (min-width: 480px)  {
+
+}
+/* Mobile  Screen Sizes */
+@media only screen and (max-width: 479px)  {
+  .col-1 {
+    width: 98%;
+    margin: 1%;
+    float: none;
+  }
+}
+/* Tablet  Screen Sizes */
+@media only screen and (min-width: 480px)
+                   and (max-width: 767px){
+                     .col-1 {
+                       width: 44%;
+                     }
+                   }
+
+/* Desktop screen Sizes */
+@media only screen and (min-width: 768px) {
+
+}
