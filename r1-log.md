@@ -257,3 +257,8 @@ Completed  ' Three Pillars of JS ' excercise from getting-started-javascript-v2.
 The Idea of the three Pillars is the core concept for Js programming, I felt that once I master these concepts, my work on JS will be more easier than before.
 
 [Link to work](https://github.com/mesfint/100-days-of-code/blob/master/codes/frontEndMaster_Web_Dev/Three-Pillars-of-JS-exercises/three-pillars/ex.js)
+
+  ==================
+###  R1D40 - Oct21
+Today I started  2nd part  of @FrontendMasters  Career Ready Web Developer Path, by @jen4web
+, enjoying her amazing CSS Grids & Flexbox for Responsive Web Design course.The course is so much informative from the very begning, Defenetly will help me to sharper my css skills to the next level
