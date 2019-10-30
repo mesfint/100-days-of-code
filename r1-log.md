@@ -264,7 +264,7 @@ Today I started  2nd part  of @FrontendMasters  Career Ready Web Developer Path,
 , enjoying her amazing CSS Grids & Flexbox for Responsive Web Design course.The course is so much informative from the very begning, Defenetly will help me to sharper my css skills to the next level.
 
   ==================
-###  R1D49 - Oct30
+###  R1D41-48 - Oct30
 I am about to complete css-grids-flexbox course by @jen4web, from  @FrontendMasters, Sofar I learn so much about the difference between Float , Flex and Grid layout sytems. As each of them has their own advantages.
 
 
