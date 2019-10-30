@@ -261,4 +261,14 @@ The Idea of the three Pillars is the core concept for Js programming, I felt tha
   ==================
 ###  R1D40 - Oct21
 Today I started  2nd part  of @FrontendMasters  Career Ready Web Developer Path, by @jen4web
-, enjoying her amazing CSS Grids & Flexbox for Responsive Web Design course.The course is so much informative from the very begning, Defenetly will help me to sharper my css skills to the next level
+, enjoying her amazing CSS Grids & Flexbox for Responsive Web Design course.The course is so much informative from the very begning, Defenetly will help me to sharper my css skills to the next level.
+
+  ==================
+###  R1D49 - Oct30
+I am about to complete css-grids-flexbox course by @jen4web, from  @FrontendMasters, Sofar I learn so much about the difference between Float , Flex and Grid layout sytems. As each of them has their own advantages.
+
+
+### Thoughts:
+Most modern websites currently desined using either Flex or Grid, Float layout is becoming deprecaited though still number of developers are using.
+In my opinion to stick with Flex and Grid is crucial.
+
