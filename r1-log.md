@@ -293,7 +293,8 @@ As the title tells, this particular course is not only about the coding but also
         after an execution context is popped off the stack
  
   ###   Functional Programming and Its Benefits?
-        
+    -   DRY, Don't repeat yourself
+    -   Pure functions (no side effects)
     -   
     
 
