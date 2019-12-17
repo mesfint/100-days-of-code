@@ -278,7 +278,7 @@ In my opinion to stick with Flex and Grid is crucial.
 ###  R2D6-Dec 17.19 
 Working on Js-the-hard-parts by @Will Sentance,
 As the title tells, this particular course is not only about the coding but also the detail concept of JS. The teacher targets the students need to develop a skill of communicating and explaining each code given also develop a skill to interprete a certain senario into code.
-### The following are the take away from the first part of the course.
+### The following are  key take away from the first part.
  -  Single threaded (one thing at a time)
  -  Js default waiting value is Undefined
  -  Local Excution Context:
