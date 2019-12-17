@@ -298,8 +298,4 @@ As the title tells, this particular course is not only about the coding but also
     
 
 
-### Thoughts:
-Most modern websites currently desined using either Flex or Grid, Float layout is becoming deprecaited though still number of developers are using.
-In my opinion to stick with Flex and Grid is crucial.
 
-[Link to Work](https://github.com/mesfint/100-days-of-code/tree/master/codes/frontEndMaster_Web_Dev/ResponsiveDesign)
