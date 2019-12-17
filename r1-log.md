@@ -283,8 +283,8 @@ As the title tells, this particular course is not only about the coding but also
 1.2 Js default waiting value => Undefined
 1.3 Local Excution Context   =>
 1.4 Call Stack =>
-    2.1 ### Functional Programming
-    ####    Benefits of FP?
+  ###  2.1  Functional Programming and Its Benefits?
+        
     -   
     
 
