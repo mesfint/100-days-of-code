@@ -279,11 +279,20 @@ In my opinion to stick with Flex and Grid is crucial.
 Working on Js-the-hard-parts by @Will Sentance,
 As the title tells, this particular course is not only about the coding but also the detail concept of JS. The teacher targets the students need to develop a skill of communicating and explaining each code given also develop a skill to interprete a certain senario into code.
 ### The following are the take away from the first part of the course.
-1.1 Single threaded/synchronously
-1.2 Js default waiting value ### Undefined
-1.3 Local Excution Context  
-1.4 Call Stack =>
-  ###  2.1  Functional Programming and Its Benefits?
+ -  Single threaded (one thing at a time)
+ -  Js default waiting value is Undefined
+ -  Local Excution Context:
+    -   When you execute a function you create a new execution context comprising:
+        1. The thread of execution (we go through the code in the function line by line)
+        2. A local memory ('Variable environment') where anything defined in the function is stored
+ #### Call Stack 
+    -   We keep track of the functions being called in JavaScript
+        with a Call stack
+    -   Tracks which execution context we are in - that is, what
+        function is currently being run and where to return to
+        after an execution context is popped off the stack
+ 
+  ###   Functional Programming and Its Benefits?
         
     -   
     
