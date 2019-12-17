@@ -295,7 +295,14 @@ As the title tells, this particular course is not only about the coding but also
   ###   Functional Programming and Its Benefits?
     -   DRY, Don't repeat yourself
     -   Pure functions (no side effects)
-    -   
+    
+  ###  R2D7-Dec 18.19 
+  ##    Closure
+    -   When our functions get called, we create a live store of data (local memory/
+        variable environment/state) for that function’s execution context.
+    -   When the function finishes executing, its local memory is deleted (except the
+        returned value)
+     
     
 
 
